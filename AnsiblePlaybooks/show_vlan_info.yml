@@ -1,0 +1,22 @@
+---
+- name: Show VLAN Information
+  hosts: all_switches
+  gather_facts: false
+  connection: local
+
+  vars:
+    admin:
+      username: cisco
+      password: cisco
+
+  tasks:
+    - name: Get VLAN Information
+      ios_command:
+        provider: "{{ admin }}"
+        authorize: yes
+        commands:
+          - show vlan brief
+      register: output
+
+    - name: Debug output
+      debug: var=output.stdout_lines

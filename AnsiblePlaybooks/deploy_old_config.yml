@@ -1,0 +1,30 @@
+---
+- name: Deploy OLD configuration
+  hosts: all_switches
+  gather_facts: false
+  connection: local
+
+  vars:
+    admin:
+      username: cisco
+      password: cisco
+
+  tasks:
+    - name: Interface Configuration
+      ios_config:
+        provider: "{{ admin }}"
+        authorize: yes
+        timeout: 30
+        lines:
+          - default interface range g0/0 - 3, g1/0 - 3, g2/0 - 3, g3/0 - 3
+
+    - name: Show Interface Configuration
+      ios_command:
+        provider: "{{ admin }}"
+        authorize: yes
+        commands:
+          - "show run | begin interface"
+      register: output
+
+    - name: Debug output
+      debug: var=output.stdout_lines

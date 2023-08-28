@@ -1,0 +1,27 @@
+---
+- name: Show Running Configuration
+  hosts: all
+  gather_facts: false
+  connection: local
+
+  vars:
+    admin:
+      username: cisco
+      password: cisco
+
+  tasks:
+    - name: Get Running Configuration
+      ios_command:
+        provider: "{{ admin }}"
+        authorize: yes
+        commands:
+          - show run
+      register: output
+
+    - name: Debug output
+      debug: var=output.stdout_lines
+
+    - name: Save Running Configuration
+      copy:
+        content="{{ output.stdout[0] }}"
+        dest="./configurations/{{ inventory_hostname }}_running_config.cfg"

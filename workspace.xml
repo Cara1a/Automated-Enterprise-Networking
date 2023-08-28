@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9860b53d-f288-4793-a2b3-0cf3a684084b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JupyterTrust" id="9831744e-4f02-4fd2-999b-bd33e4249eff" />
+  <component name="ProjectId" id="1lg1RvVmm573hPu30VVMx3VFOEB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.show_all_vlan">
+    <configuration name="remove_all_vlan" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ssh" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ssh/remove_all_vlan.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="show_all_vlan" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ssh" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ssh/show_all_vlan.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.show_all_vlan" />
+        <item itemvalue="Python.remove_all_vlan" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9860b53d-f288-4793-a2b3-0cf3a684084b" name="Default Changelist" comment="" />
+      <created>1608003920786</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608003920786</updated>
+      <workItem from="1608003922684" duration="1398000" />
+      <workItem from="1608006973564" duration="3440000" />
+      <workItem from="1608085886252" duration="540000" />
+      <workItem from="1608086968171" duration="3127000" />
+      <workItem from="1609467912423" duration="2000" />
+      <workItem from="1609467921593" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1388" height="268" key="GridCell.Tab.0.bottom" timestamp="1608107722392">
+      <screen x="2560" y="25" width="1280" height="775" />
+    </state>
+    <state width="1388" height="268" key="GridCell.Tab.0.bottom/2560.25.1280.775/0.25.2560.1042@2560.25.1280.775" timestamp="1608107722392" />
+    <state width="1388" height="268" key="GridCell.Tab.0.bottom/2560.25.1440.875/624.1092.1194.809/0.25.2560.1042@2560.25.1440.875" timestamp="1608087918004" />
+    <state width="1388" height="268" key="GridCell.Tab.0.center" timestamp="1608107722391">
+      <screen x="2560" y="25" width="1280" height="775" />
+    </state>
+    <state width="1388" height="268" key="GridCell.Tab.0.center/2560.25.1280.775/0.25.2560.1042@2560.25.1280.775" timestamp="1608107722391" />
+    <state width="1388" height="268" key="GridCell.Tab.0.center/2560.25.1440.875/624.1092.1194.809/0.25.2560.1042@2560.25.1440.875" timestamp="1608087918003" />
+    <state width="1388" height="268" key="GridCell.Tab.0.left" timestamp="1608107722391">
+      <screen x="2560" y="25" width="1280" height="775" />
+    </state>
+    <state width="1388" height="268" key="GridCell.Tab.0.left/2560.25.1280.775/0.25.2560.1042@2560.25.1280.775" timestamp="1608107722391" />
+    <state width="1388" height="268" key="GridCell.Tab.0.left/2560.25.1440.875/624.1092.1194.809/0.25.2560.1042@2560.25.1440.875" timestamp="1608087918002" />
+    <state width="1388" height="268" key="GridCell.Tab.0.right" timestamp="1608107722392">
+      <screen x="2560" y="25" width="1280" height="775" />
+    </state>
+    <state width="1388" height="268" key="GridCell.Tab.0.right/2560.25.1280.775/0.25.2560.1042@2560.25.1280.775" timestamp="1608107722392" />
+    <state width="1388" height="268" key="GridCell.Tab.0.right/2560.25.1440.875/624.1092.1194.809/0.25.2560.1042@2560.25.1440.875" timestamp="1608087918004" />
+    <state width="1388" height="268" key="GridCell.Tab.1.bottom" timestamp="1608107722393">
+      <screen x="2560" y="25" width="1280" height="775" />
+    </state>
+    <state width="1388" height="268" key="GridCell.Tab.1.bottom/2560.25.1280.775/0.25.2560.1042@2560.25.1280.775" timestamp="1608107722393" />
+    <state width="1388" height="268" key="GridCell.Tab.1.bottom/2560.25.1440.875/624.1092.1194.809/0.25.2560.1042@2560.25.1440.875" timestamp="1608087918007" />
+    <state width="1388" height="268" key="GridCell.Tab.1.center" timestamp="1608107722393">
+      <screen x="2560" y="25" width="1280" height="775" />
+    </state>
+    <state width="1388" height="268" key="GridCell.Tab.1.center/2560.25.1280.775/0.25.2560.1042@2560.25.1280.775" timestamp="1608107722393" />
+    <state width="1388" height="268" key="GridCell.Tab.1.center/2560.25.1440.875/624.1092.1194.809/0.25.2560.1042@2560.25.1440.875" timestamp="1608087918006" />
+    <state width="1388" height="268" key="GridCell.Tab.1.left" timestamp="1608107722393">
+      <screen x="2560" y="25" width="1280" height="775" />
+    </state>
+    <state width="1388" height="268" key="GridCell.Tab.1.left/2560.25.1280.775/0.25.2560.1042@2560.25.1280.775" timestamp="1608107722393" />
+    <state width="1388" height="268" key="GridCell.Tab.1.left/2560.25.1440.875/624.1092.1194.809/0.25.2560.1042@2560.25.1440.875" timestamp="1608087918005" />
+    <state width="1388" height="268" key="GridCell.Tab.1.right" timestamp="1608107722393">
+      <screen x="2560" y="25" width="1280" height="775" />
+    </state>
+    <state width="1388" height="268" key="GridCell.Tab.1.right/2560.25.1280.775/0.25.2560.1042@2560.25.1280.775" timestamp="1608107722393" />
+    <state width="1388" height="268" key="GridCell.Tab.1.right/2560.25.1440.875/624.1092.1194.809/0.25.2560.1042@2560.25.1440.875" timestamp="1608087918006" />
+    <state x="2789" y="25" key="SettingsEditor" timestamp="1608008207088">
+      <screen x="2560" y="25" width="1440" height="875" />
+    </state>
+    <state x="2789" y="25" key="SettingsEditor/2560.25.1440.875/624.1092.1194.809/0.25.2560.1042@2560.25.1440.875" timestamp="1608008207088" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python$show_all_vlan.coverage" NAME="show_all_vlan Coverage Results" MODIFIED="1608087910921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ssh" />
+    <SUITE FILE_PATH="coverage/Python$remove_all_vlan.coverage" NAME="remove_all_vlan Coverage Results" MODIFIED="1608010579689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ssh" />
+  </component>
+</project>
